@@ -1,0 +1,91 @@
+.second-div
+{
+	background-color: black;
+	border-color: black;
+	color: white;
+}
+select
+{
+	background-color: black;
+	color: white;
+	border: black;
+}
+.size
+{
+	padding-right: 15px;
+	padding-left: 10px;
+	padding-top: 5px;
+}
+.input[type=text] {
+    width: 130px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+input[type=text]:focus {
+    width: 20%;
+    float: left;
+    border-radius: 2px;
+}
+.middel
+{
+	width: 40%;
+	float: right;
+}
+.tr
+{
+	width: 20%;
+	float: left;
+	background-color: blue;
+	border: blue;
+}
+.color
+{
+	color: blue;
+}
+.bgcolor
+{
+	background-color: rgb(0, 102, 255);
+	width: 200px;
+	color: white;
+}
+.font
+{
+	font-family: Microsoft Sans Serif;
+}
+.overflow
+{
+	overflow-y: scroll;
+}
+.back
+{
+	background-color: blue !important;
+}
+.left
+{
+	float: left;
+}
+.right
+{
+	float: right;
+}
+.vcolor
+{
+	color: purple;
+}
+.hide
+{
+	overflow-x: visible; 
+}
+.height
+{
+	height: 700px;
+}
+.grey
+{
+	background-color: grey;
+}
+
+.radius
+{
+	border-radius: 25px;
+}
